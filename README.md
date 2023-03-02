@@ -1,8 +1,9 @@
 # AI-HW1
+
 ##AI 관련 스크랩해서 요약하기
 
 
-#####15 Best ChatGPT Alternatives (Free and Paid)
+######15 Best ChatGPT Alternatives (Free and Paid)
 
 Link: https://beebom.com/best-chatgpt-alternatives/
 Source file date: 03/01/2023
@@ -14,7 +15,7 @@ The alternatives list includes Google Bard, Microsoft Bing, Chatsonic, Jasper Ch
 All the strength and weaknesses are mentioned for each chatbot.
 
 
-#####Is it already ‘game over’ in the metaverse for Bondee, Singapore’s avatar-based app?
+######Is it already ‘game over’ in the metaverse for Bondee, Singapore’s avatar-based app?
 
 Link: https://www.scmp.com/week-asia/economics/article/3211235/it-already-game-over-metaverse-bondee-singapores-avatar-based-app
 Source file date: 25/02/2023
